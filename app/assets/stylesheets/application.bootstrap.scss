@@ -1,2 +1,19 @@
 @import 'bootstrap/scss/bootstrap';
 @import 'bootstrap-icons/font/bootstrap-icons';
+
+// Mixins
+@import "mixins/media";
+
+// Configuration
+@import "config/variables";
+@import "config/reset";
+
+// Components
+@import "components/navbar";
+@import "components/session";
+@import "components/btn";
+@import "components/navbar";
+@import "components/session";
+
+// Layouts
+@import "layouts/container";
