@@ -72,3 +72,5 @@ gem "bootstrap", "~> 5.3"
 gem "cssbundling-rails", "~> 1.4"
 
 gem "simple_form", "~> 5.3"
+
+gem "simple_command", "~> 1.0"
