@@ -57,7 +57,7 @@ group :development, :test do
 
   gem "factory_bot_rails", "~> 6.4"
 
-  gem "shoulda-matchers", "~> 6.4"
+  gem "shoulda-matchers", "~> 6.5"
 
   gem "rails-controller-testing", "~> 1.0"
 end
